@@ -2,7 +2,13 @@
 
 This is Ruben Carbajal's first flutter project
 
-## Getting Started
+## To Run application
+`flutter run -d chrome --release`
+
+## Understanding the application
+`lib/main.dart` contains the landing file
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
